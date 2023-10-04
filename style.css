@@ -1,0 +1,28 @@
+.Idol{
+    display: inline-block;
+    font-size: 24px;
+    animation: spin2 4s linear infinite;
+}
+.RS {
+    display: inline-block;
+    font-size: 24px;
+    animation: spin 4s linear infinite;
+}
+.RSorigin{
+
+}
+.RSracing{
+
+}
+.RSFormula{
+
+}
+.achievements{
+
+}
+.achievements2{
+
+}
+.achievements1 {
+    font-weight: bold;
+}
